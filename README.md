@@ -53,25 +53,6 @@ The goal is to identify distinct groups of credit card customers based on their 
 
 ---
 
-## 📁 Project Structure
-
-📦 customer-segmentation-kmeans-pca
-│
-├── 📁 data
-│ └── CC GENERAL.csv
-│
-├── 📁 notebooks
-│ └── customer_segmentation_kmeans.ipynb
-│
-├── 📁 images
-│ ├── elbow_plot.png
-│ └── pca_2d_plot.png
-│
-├── README.md
-
-
----
-
 ## 🚀 Real-World Use Cases
 
 - **Banking**: Segment credit card customers for risk profiling and offer optimization.
